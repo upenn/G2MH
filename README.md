@@ -6,8 +6,8 @@
 ## All plots were done in R : line_bar_plots.R
 
 ### Mixed models on imputed data
-(1) For accuracy and speed, ran mixed models in SAS adjusting for site and sex.
+(1) For accuracy and speed, ran mixed models in SAS adjusting for site and sex:
     rarecnv_analysis_wsite_2024.sas
 
-(2) For IQ and overal CNB IQ, ran analysis is sas.
+(2) For IQ and overal CNB IQ, ran analysis is sas:
     rarecnv_analysis_iq_2024.sas
